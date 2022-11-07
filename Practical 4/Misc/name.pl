@@ -1,0 +1,1 @@
+name:- write('what is your name?'),nl,read(X),write('hello '),write(X).
